@@ -1,1 +1,1 @@
-# second-project-eda-inf-stats
+# Project 3 Heart Attack ML
