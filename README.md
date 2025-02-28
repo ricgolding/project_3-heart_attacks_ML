@@ -9,6 +9,10 @@
 ## Overview
 This project focuses on analyzing and predicting heart attack risks using machine learning techniques. The dataset is preprocessed to clean and prepare the data before applying predictive models.
 
+## Slides
+
+https://docs.google.com/presentation/d/13aHPF2eJQazkJRJQuv7yul5ia5v35nhanASGUbA7uM8/edit#slide=id.g33a945bd0e5_0_265
+
 ## Dataset
 The dataset used in this project contains various medical and demographic attributes related to heart health. It includes features such as:
 - Blood pressure (systolic and diastolic)
