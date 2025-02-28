@@ -41,7 +41,7 @@ A **Decision Tree Classifier** was used to predict heart attack risk based on th
 The project provides insights into key factors influencing heart attack risks and demonstrates the effectiveness of machine learning models in medical diagnosis. The results can be used to improve early detection and preventive measures.
 
 ## Requirements
-To run this notebook, install the following dependencies:
+To run this project, ensure you have pyproject.toml configured with all necessary dependencies. Install them using:
 ```bash
 pip install -e .
 ```
